@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5efbd0b0-dad3-4d96-a1eb-203897162204)# Gkmas-Classification-Tool
+# Gkmas-Classification-Tool
 一个用来给[Gakuen-idolmaster-ab-decrypt](https://github.com/nijinekoyo/Gakuen-idolmaster-ab-decrypt)解密得到的文件分类的小工具。
 
 # 对照表
