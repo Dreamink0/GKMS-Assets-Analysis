@@ -22,6 +22,6 @@
 | ttmr   | 月村手毬(Tsukimura Temari)        |
 | nasr   | 根緒亜紗里(Neo Asari)        |
 | shro   | 篠澤広(Shinosawa Hiro)        |
-| trda   | ???(大概是路人）        |
-| trvi   | ???(大概是路人）        |
-| trvo   | ???(大概是路人）        |
+| trda   | 舞蹈老师        |
+| trvi   | 表演老师        |
+| trvo   | 声乐老师        |
