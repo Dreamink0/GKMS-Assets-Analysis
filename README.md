@@ -1,9 +1,5 @@
-# Gkmas-Classification-Tool
-一个用来给[Gakuen-idolmaster-ab-decrypt](https://github.com/nijinekoyo/Gakuen-idolmaster-ab-decrypt)解密得到的文件分类的小工具。
-
-# To-Do
-- 整理文件前缀分类 x
-- 编写脚本 x
+# Gkmas-Assets-Analysis
+一个学マス解包相关的仓库。
 
 # 对照表
 ## 角色
