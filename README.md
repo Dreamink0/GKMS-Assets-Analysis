@@ -21,3 +21,17 @@
 | trda   | 舞蹈老师        |
 | trvi   | 表演老师        |
 | trvo   | 声乐老师        |
+
+# 工具
+```
+Gakuen-idolmaster-ab-decrypt：https://github.com/nijinekoyo/Gakuen-idolmaster-ab-decrypt?tab=readme-ov-file
+AssetStudio：https://github.com/RazTools/Studio/releases/tag/v1.36.00
+直接将AssetsBundle中的模型转换为pmx的Unity工程（by croakfang）：https://croakfang.fun/wp-content/uploads/2024/05/IDOL.zip
+```
+
+# 相关文章
+```
+学园偶像大师 global-metadata 解密流程：https://www.chinosk6.cn/index.php/archives/164/
+记录一次学マス角色模型解包：https://xlog.dreamo.ink/Gakuen-idolmaster/
+学院偶像大师资源提取记录：https://croakfang.fun/2024/05/27/%e5%ad%a6%e9%99%a2%e5%81%b6%e5%83%8f%e5%a4%a7%e5%b8%88%e8%b5%84%e6%ba%90%e6%8f%90%e5%8f%96%e8%ae%b0%e5%bd%95/
+```
